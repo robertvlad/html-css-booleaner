@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+
+#bar{
+    width: 100%;
+    height: 120px;
+    background-color: rgba(78,160,255,255);
+    background-image: url("../img/pattern.png");
+}
+
+#logo{
+    height: 80px;
+    margin-top: 40px;
+}
