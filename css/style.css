@@ -38,16 +38,12 @@
     text-align: center;
 }
 
-#first_text{
+.first_text{
     margin: 15px 0 15px 0;
 }
 
-#yellow_important{
+.yellow_important{
     background-color: rgba(255,255,0,255);
-}
-
-#thead_line{
-    background-color: rgba(32,169,229,255);
 }
 
 .table_short{
@@ -59,9 +55,13 @@
 }
 
 .blue_row{
-    background-color: blue;
+    background-color: rgba(32,169,229,255);
+}
+
+.azure_row{
+    background-color: rgba(177,229,242,255);
 }
 
 #table{
-    display: block;
+    margin: 15px;
 }
