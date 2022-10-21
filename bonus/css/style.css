@@ -8,7 +8,7 @@
 /* General */
 
 .container{
-    width: 1000px;
+    width: 1100px;
     margin: 0 auto;
 }
 
@@ -17,7 +17,7 @@
 
 header{
     height: 100px;
-    background-color: rgba(78,160,255,255);
+    background-color: rgb(78, 160, 255);
     background-image: url("../../img/pattern.png");
     background-size: contain;
 }
@@ -30,5 +30,60 @@ header{
 
 /* Main */
 
+h1{
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.author{
+    font-size: 18px;
+    color: rgb(128, 128, 128);
+}
+
+.date{
+    font-size: 14px;
+    color: rgb(128, 128, 128);
+}
+
+.author_name{
+    color: rgb(78, 168, 255);
+}
+
+.photo_main{
+    margin: 20px auto 0;
+}
+
+.description_photo{
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.highlighted{
+    background-color: rgb(255, 255, 0);
+}
+
+ul{
+    margin: 30px 15px;
+}
+
+table{
+    text-align: left;
+    border-spacing: 0;
+    margin-bottom: 20px;
+}
+
+.odd{
+    background-color: rgb(177, 229, 242);
+}
+
+thead{
+    background-color: rgb(32, 169, 229);
+    color: rgb(255, 255, 255);
+}
+
+.last_column{
+    width: 50%;
+}
 
 
+/* Footer */
