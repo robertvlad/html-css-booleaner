@@ -87,3 +87,27 @@ thead{
 
 
 /* Footer */
+
+h2{
+    font-size: 18px;
+    color: rgb(128, 128, 128);
+    margin-top: 20px;
+}
+
+.photo{
+    width: 200px;
+    height: 160px;
+    padding: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+}
+
+.photo_monitor{
+    background-image: url("../../img/monitor.jpg");
+    margin: 10px 0;
+}
+
+.photo_graph{
+    background-image: url("../../img/graph.jpg");
+}
